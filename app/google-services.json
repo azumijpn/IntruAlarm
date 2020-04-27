@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887445328936",
+    "firebase_url": "https://iot-project-5e43f.firebaseio.com",
+    "project_id": "iot-project-5e43f",
+    "storage_bucket": "iot-project-5e43f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887445328936:android:cdb3e926d03bdf3f",
+        "android_client_info": {
+          "package_name": "com.example.intrualarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887445328936-sjnt9g86jbc5t1fd3opv1ka0mvjdbsge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intrualarm",
+            "certificate_hash": "31871c3c9307dbe9e4a81e72a72dd157150a4990"
+          }
+        },
+        {
+          "client_id": "887445328936-58jsb68ficn302sq94kihjjumr17839d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnFziia6DUhE1rLaHWunJnKpGFcQOcoIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887445328936-58jsb68ficn302sq94kihjjumr17839d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
